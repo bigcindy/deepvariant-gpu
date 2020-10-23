@@ -1,1 +1,1 @@
-FROM gcr.io/deepvariant-docker/deepvariant_gpu:0.6.1
+FROM gcr.io/deepvariant-docker/deepvariant_gpu:1.0.0
